@@ -2,9 +2,7 @@
 
 Implementación Proyecto Construcción de Software II
 
-##integrantes 
 ## integrantes 
-
 
 ### Miguel David Montenegro Figueroa
 ### Leidy Laura Monterroza Bustamante
