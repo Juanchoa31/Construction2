@@ -10,4 +10,4 @@ Implementación Proyecto Construcción de Software II
 ### Dayanna Alejandra Ramirez Hernandez
 
 ## Tecnologias
-Java, SpringBoot, MySQL, Apache NetBeans 
+Java, SpringBoot, MySQL, Apache NetBeans. 
